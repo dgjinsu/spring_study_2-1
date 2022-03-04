@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/mapping/users")
 public class MappingClassController {
 
+    //같은 주소라도 매핑 방식에 따라 구분할 수 있다.
 
     /**
      * GET /mapping/users
